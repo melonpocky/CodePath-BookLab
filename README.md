@@ -3,7 +3,7 @@
 Link to Lab:
 https://courses.codepath.org/courses/android_university/unit/1#!exercises
 
-#To-Do
+###To-Do if I feel like it
 Bonus Checkpoint #1
 
 Make the “buy” button actually open up the amazon product link, you can make it open up in a browser. You will need to learn more about click listeners to do this see this guide on Basic Event Listeners
